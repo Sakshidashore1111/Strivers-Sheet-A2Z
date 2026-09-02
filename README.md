@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0073-set-matrix-zeroes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
