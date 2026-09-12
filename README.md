@@ -17,16 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0543-diameter-of-binary-tree) |
 ## Math
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0073-set-matrix-zeroes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
