@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0543-diameter-of-binary-tree) |
 ## Math
@@ -69,4 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sakshidashore1111/Strivers-Sheet-A2Z/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
